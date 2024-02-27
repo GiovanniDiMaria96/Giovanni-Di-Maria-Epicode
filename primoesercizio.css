@@ -1,0 +1,19 @@
+header{
+    text-align: center; border-top: solid 2px; border-color: goldenrod; background-color: #faf8f0;
+   }
+
+   main{
+    margin-right: 30%; margin-left: 30%; font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+
+   footer{
+    margin-right: 30%; margin-left: 30%; font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+
+div{
+text-align: center; 
+}      
+
+img{
+border-radius: 10px; 
+}
